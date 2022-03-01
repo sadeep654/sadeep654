@@ -39,6 +39,23 @@ Timezone: Sri Lanka (GMT+5:30)
 <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
 <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:20px;" />
    </p>
+
+  <br />
+<p align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</p>
+<br />
+
+---
+
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+</p>
+
+---
+  
   
 [![sadeep654's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeep654)](https://github.com/anuraghazra/github-readme-stats)
 
