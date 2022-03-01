@@ -21,6 +21,11 @@ Timezone: Sri Lanka (GMT+5:30)
 :raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
 :dizzy_face: I’m looking for help with ... TypeScript<br />-->
 💬 Ask me about anything related to... my content. I am happy to help.<br />
+  <br />
+<p align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</p>
+<br />
 
 ---
 <h3 align="center"> Languages and Tools</h3>
@@ -39,13 +44,6 @@ Timezone: Sri Lanka (GMT+5:30)
 <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
 <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:20px;" />
    </p>
-
-  <br />
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
-<br />
-
 ---
 
 <br />
