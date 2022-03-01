@@ -11,7 +11,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-Timezone: Europe/Vienna (CEST)
+Timezone: Sri Lanka (GMT+5:30)
 </p>
 <br />
 <p>An undergraduate of Curtin University Perth. My interests include Computer Systems and Networks, Power Systems, Machine Learning, Control System Design, and Embedded System. I am a highly dedicated individual and I believe that there are endless opportunities for growth in the field of Leadership & Technology which is one of my passions as well as to gain professional experience through work, and volunteering activities.</p>
@@ -22,6 +22,7 @@ Timezone: Europe/Vienna (CEST)
 :dizzy_face: I’m looking for help with ... TypeScript<br />-->
 💬 Ask me about anything related to... my content. I am happy to help.<br />
   
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
