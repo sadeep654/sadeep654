@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>👋 Hi there, I'm Sadeep <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></h1>
+  <h1 align="center"><b>👋 Hi there, I'm Sadeep</h1>
 </p>
 <p align="center">
 <a href="https://codepen.io/sadeep654"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
@@ -32,7 +32,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeep654)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+  
 [twitter]: https://twitter.com/sadeepdilshan69
 [instagram]: https://www.instagram.com/sadeep654/
 [linkedin]: https://www.linkedin.com/in/sadeep-dilshan-kasthuriarachchi-973829142/
