@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>👋 Hi there, I'm Sadeep <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"><b>👋 Hi there, I'm Sadeep</h1>
 </p>
 <p align="center">
 <a href="https://codepen.io/sadeep654"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
