@@ -12,7 +12,18 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
+- 
+### Connect with me:
 
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/sadeepdilshan69#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/sadeepdilshan69#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sadeep-dilshan-kasthuriarachchi-973829142#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sadeep-dilshan-kasthuriarachchi-973829142#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/sadeep654#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/sadeep654#gh-dark-mode-only)
 
 ### Languages and Tools:
 
