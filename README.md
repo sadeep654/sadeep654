@@ -6,7 +6,9 @@
 <a href="https://twitter.com/sadeepdilshan69"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dev.to/sadeep654"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 </p>
-
+  
+ https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+  
 ### Connect with me:
 
 
@@ -31,8 +33,6 @@
 [![sadeep654's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeep654)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeep654)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
   
 [twitter]: https://twitter.com/sadeepdilshan69
 [instagram]: https://www.instagram.com/sadeep654/
