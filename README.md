@@ -1,13 +1,11 @@
 <p>
-  <h1 align="center"><b>👋 Hi there, I'm Sadeep</h1>
+  <h1 align="center"><b>👋 Hi there, I'm Sadeep <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></h1>
 </p>
 <p align="center">
 <a href="https://codepen.io/sadeep654"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/sadeepdilshan69"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dev.to/sadeep654"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 </p>
-
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sadeepdilshan69?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/sadeep654?style=social">
 
 ### Connect with me:
 
