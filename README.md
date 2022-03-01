@@ -50,16 +50,11 @@ Timezone: Sri Lanka (GMT+5:30)
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=sadeep654&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeep654&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
-  
-  
-[![sadeep654's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeep654)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeep654)](https://github.com/anuraghazra/github-readme-stats)
   
 [twitter]: https://twitter.com/sadeepdilshan69
 [instagram]: https://www.instagram.com/sadeep654/
