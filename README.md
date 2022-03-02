@@ -13,7 +13,9 @@
 <p align="center">
 Timezone: Sri Lanka (GMT+5:30)
 </p>
+<br />
 
+---
 <h2 align="center">About me</h2>
 <p align="center">
 Timezone: Sri Lanka (GMT+5:30)
