@@ -9,7 +9,10 @@
   
  ![Sadeep Dilshan](https://user-images.githubusercontent.com/76505825/156299447-eab452ac-8e0b-4b84-9cac-31018f1eaf61.jpg) 
  
-### Connect with me:
+<h2 align="center">Connect with me</h2>
+<p align="center">
+Timezone: Sri Lanka (GMT+5:30)
+</p>
 
 <h2 align="center">About me</h2>
 <p align="center">
