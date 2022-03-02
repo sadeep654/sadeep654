@@ -12,6 +12,9 @@
 <h2 align="center">Connect with me</h2>
 <p align="center">
  <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+ <img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+ <img alt="reddit" src="https://aleen42.github.io/badges/src/reddit.svg">
+ <img alt="wechat" src="https://aleen42.github.io/badges/src/wechat.svg">
 </p>
 <br />
 
