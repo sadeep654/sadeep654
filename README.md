@@ -11,7 +11,7 @@
  
 <h2 align="center">Connect with me</h2>
 <p align="center">
-  ![slack] (https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+ <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </p>
 <br />
 
