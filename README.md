@@ -13,8 +13,8 @@
 <p align="center">
  <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
  <img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
- <img alt="reddit" src="https://aleen42.github.io/badges/src/reddit.svg">
- <img alt="wechat" src="https://aleen42.github.io/badges/src/wechat.svg">
+ <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 <br />
 
