@@ -6,6 +6,8 @@
 <a href="https://twitter.com/sadeepdilshan69"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dev.to/sadeep654"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 </p>
+  
+ ![Sadeep Dilshan](https://user-images.githubusercontent.com/76505825/156299447-eab452ac-8e0b-4b84-9cac-31018f1eaf61.jpg) 
  
 ### Connect with me:
 
