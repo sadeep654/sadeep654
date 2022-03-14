@@ -73,3 +73,5 @@ Timezone: Sri Lanka (GMT+5:30)
 sadeep654/sadeep654 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sadeep-dilshan-kasthuriarachchi-973829142" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/sadeep-dilshan-kasthuriarachchi-973829142?trk=profile-badge">Sadeep Dilshan Kasthuriarachchi</a></div>
+              
