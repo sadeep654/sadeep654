@@ -24,7 +24,7 @@
 Timezone: Sri Lanka (GMT+5:30)
 </p>
 <br />
-<p>An undergraduate of Curtin University Perth. My interests include Computer Systems and Networks, Power Systems, Machine Learning, Control System Design, and Embedded System. I am a highly dedicated individual and I believe that there are endless opportunities for growth in the field of Leadership & Technology which is one of my passions as well as to gain professional experience through work, and volunteering activities.</p>
+<p>My interests include Computer Systems and Networks, Power Systems, Machine Learning, Control System Design, and Embedded System. I am a highly dedicated individual and I believe that there are endless opportunities for growth in the field of Leadership & Technology which is one of my passions as well as to gain professional experience through work, and volunteering activities.</p>
 
 :muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
 <!--:eyes: I’m currently learning ... TypeScript <br />
