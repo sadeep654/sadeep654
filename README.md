@@ -57,20 +57,20 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=darkhub&no-frame=true&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sadeep654&theme=darkhub&no-frame=true&margin-w=10" alt="trophies" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadeep654&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeep654&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true" height="120" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeep654&theme=dark&hide_border=true" height="120" alt="streak" />
 </p>
 
 ---
