@@ -29,27 +29,20 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,bash" />
-
-<!-- Web -->
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
-
-<!-- Data & AI -->
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,postgres,mysql,mongodb" />
-
-<!-- Cloud -->
-<img src="https://skillicons.dev/icons?i=aws,azure,oracle,firebase" />
-
-<!-- Dev Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
+<!-- Row 1 (17 icons) -->
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,linux,git,github,vscode,pycharm,postgresql,mysql" />
 
 <br/>
 
-<!-- Extra Icons -->
-<img src="https://skillicons.dev/icons?i=docker,nginx,postman,figma" />
+<!-- Row 2 (17 icons) -->
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,azure,oracle,docker,nginx,postman,figma,tensorflow,sklearn,pytorch,bash,redis,flask,django,kubernetes" />
+
+<br/>
+
+<!-- Row 3 (17 icons) -->
+<img src="https://skillicons.dev/icons?i=fastapi,selenium,regex,cloudflare,notion,latex,githubactions,graphql,supabase,threejs,prisma,tailwind,arduino,raspberrypi,terraform,ansible,jenkins" />
 
 </p>
 
