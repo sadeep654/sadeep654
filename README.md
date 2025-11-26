@@ -34,15 +34,9 @@
 
 ---
 
-<div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
-</div>
-
----
-
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome++to++my++profile+%F0%9F%91%8B&font=Montserrat%20Code&center=true&width=440&height=45&color=3D85C6&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Decisions;Turning+Ideas+into+Solutions&font=Montserrat%20Code&center=true&width=600&height=45&color=3D85C6&vCenter=true&size=22">
   </a>
 </h1>
 
