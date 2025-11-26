@@ -27,22 +27,30 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🛠️ Languages and Tools
 
-<p align="center">
-<!-- Languages & libs -->
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL" />
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" alt="scikit" />
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="pandas" />
-<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="numpy" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="PowerBI" />
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" />
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white&style=for-the-badge" alt="Oracle" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="git" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="github" />
+<p align="left">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,bash" />
+
+<!-- Web -->
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+
+<!-- Data & AI -->
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,postgres,mysql,mongodb" />
+
+<!-- Cloud -->
+<img src="https://skillicons.dev/icons?i=aws,azure,oracle,firebase" />
+
+<!-- Dev Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
+
+<br/>
+
+<!-- Extra Icons -->
+<img src="https://skillicons.dev/icons?i=docker,nginx,postman,figma" />
+
 </p>
 
 ---
