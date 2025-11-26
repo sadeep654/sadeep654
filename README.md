@@ -94,4 +94,3 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 
 ---
 
-<sub>Profile README generated — replace `YOUR-GITHUB-USERNAME`, `YOUR-LINKEDIN`, `YOUR-EMAIL`, and any project names/links with your real values. Use dark GitHub theme to match the look.</sub>
