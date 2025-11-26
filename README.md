@@ -32,7 +32,7 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 <p align="center">
 
 <!-- Row 1 (17 icons) -->
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,linux,git,github,vscode,pycharm,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,linux,git,github,vscode,pycharm" />
 
 <br/>
 
