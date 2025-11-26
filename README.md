@@ -2,17 +2,43 @@
   Paste this file into: github.com/<sadeep654>/<sadeep654>/README.md
   Replace YOUR-GITHUB-USERNAME, YOUR-LINKEDIN, YOUR-EMAIL, YOUR-TWITTER, YOUR-STACKOVERFLOW, and pins.
 -->
-<h1 align="center">
-  Welcome to Sadeep's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<h3 align="center">Data & IT · AI · Cloud · Cybersecurity · Software · Networking</h3>
+<!--
+    Hey there, I'm Sadeep Dilshan!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @sadeepdilshankasthuriarachchi :))
+-->
 
-<p align="center">
-  <img alt="profile-views" src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=4c1" />
-  &nbsp;
-  <img alt="profile-badge" src="https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square" />
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3D85C6&width=600&lines=Hello%2C+it's+Sadeep+Dilshan;Data+%26+IT+Professional;Data+Analytics+%26+Cloud+Engineer;Cloud+%26+AI+Enthusiast" alt="Typing SVG"/>
+</a>
+
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
+
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+</div>
+
+<!--
+     My mission, because I'm a superhero!
+-->
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+
+---
+
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome++to++my++profile+%F0%9F%91%8B&font=Montserrat%20Code&center=true&width=440&height=45&color=3D85C6&vCenter=true&size=22">
+  </a>
+</h1>
 
 ---
 
@@ -59,7 +85,7 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=sadeep654&column=10&theme=light&no-frame=false"/>
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=sadeep654&column=9&theme=light&no-frame=false"/>
 </p>
 
 ---
@@ -93,4 +119,14 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 </p>
 
 ---
+https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest <3
+-->
 
