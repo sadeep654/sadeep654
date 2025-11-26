@@ -42,6 +42,8 @@
 
 ---
 
+<p align="center"><img src="/img/demo.gif?raw=true"/></p>
+
 ## 🔭 About
 I design and build data-driven, cloud-first, and secure solutions. I work on predictive modelling, Python analytics, IoT systems, client–server applications, and cloud architectures. I like clean code, reproducible notebooks, and production-aware data pipelines.
 
