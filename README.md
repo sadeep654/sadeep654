@@ -20,8 +20,8 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 ---
 
 ## 📌 Quick links
-- 🔗 Portfolio / Projects: https://github.com/YOUR-GITHUB-USERNAME  
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
+- 🔗 Portfolio / Projects: https://github.com/
+- 💼 LinkedIn: https://www.linkedin.com/in/
 - ✉️ Email: YOUR-EMAIL  
 - 🧾 Resume: (link to resume if hosted)
 
