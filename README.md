@@ -11,7 +11,9 @@
     You may also want to connect with me on LinkedIn @sadeepdilshankasthuriarachchi :))
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=header" alt="header"/> 
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=header" alt="header"/> 
+
+---
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3D85C6&width=600&lines=Hello%2C+it's+Sadeep+Dilshan;Data+%26+IT+Professional;Data+Analytics+%26+Cloud+Engineer;Cloud+%26+AI+Enthusiast" alt="Typing SVG"/>
@@ -36,7 +38,7 @@
 
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Decisions;Turning+Ideas+into+Solutions&font=Montserrat%20Code&center=true&width=600&height=45&color=3D85C6&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Decisions;Turning+Ideas+into+Solutions&font=Montserrat%20Code&center=true&width=600&height=45&color=F44336&vCenter=true&size=22">
   </a>
 </h1>
 
@@ -87,15 +89,10 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 
 ## 📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadeep654" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeep654" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeep654" />
 </p>
 
+---
 
 ## 📚 Certifications (selected)
 - Proofpoint Certified AI Data Security Specialist (2025)  
@@ -119,7 +116,7 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 > [!IMPORTANT]  
 > <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/" download>See my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=footer" alt="footer"/>
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
@@ -141,7 +138,7 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
 <!--
 Check out my latest post 👇  
 
-<a href="https://medium.com/@daria-stanilevici" target="_blank">
+<a href="https://medium.com/@sadeepdilshan" target="_blank">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
 </a>
 
@@ -154,7 +151,7 @@ Check out my latest post 👇
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+    <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://dev.to/sadeep654">
