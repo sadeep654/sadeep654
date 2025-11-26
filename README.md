@@ -30,19 +30,17 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 ## 🛠️ Languages and Tools
 
 <p align="center">
-
 <!-- Row 1 (17 icons) -->
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express,linux,git,github,vscode,pycharm" />
-
 <br/>
 
 <!-- Row 2 (17 icons) -->
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,azure,oracle,docker,nginx,postman,figma,tensorflow,sklearn,pytorch,bash,redis,flask,django,kubernetes" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,azure,swift,rust,docker,postman,figma,tensorflow,sklearn,pytorch,bash,redis,kubernetes" />
 
 <br/>
 
 <!-- Row 3 (17 icons) -->
-<img src="https://skillicons.dev/icons?i=fastapi,selenium,regex,cloudflare,notion,latex,githubactions,graphql,supabase,threejs,prisma,tailwind,arduino,raspberrypi,terraform,ansible,jenkins" />
+<img src="https://skillicons.dev/icons?i=atom,pycharm,c,cpp,r,devto,eclipse,replit,cloudflare,notion,latex,arduino,raspberrypi,ansible,jenkins" />
 
 </p>
 
@@ -84,11 +82,6 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 - Microsoft Fabric Analytics Engineer Associate (2025)  
 - Google IT Support Professional Certificate (2025)  
 - Cisco CCNAv7 + Network Security
-
----
-
-## 🌐 Languages
-**English** (IELTS 7.0) • **Sinhala** (Native) • **Hindi** (Basic)
 
 ---
 
