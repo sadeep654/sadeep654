@@ -1,9 +1,11 @@
 <!--
-  Paste this file into: github.com/<your-username>/<your-username>/README.md
+  Paste this file into: github.com/<sadeep654>/<sadeep654>/README.md
   Replace YOUR-GITHUB-USERNAME, YOUR-LINKEDIN, YOUR-EMAIL, YOUR-TWITTER, YOUR-STACKOVERFLOW, and pins.
 -->
-
-<h1 align="center">Hi, I’m Sadeep 👋</h1>
+<h1 align="center">
+  Welcome to Sadeep's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 <h3 align="center">Data & IT · AI · Cloud · Cybersecurity · Software · Networking</h3>
 
 <p align="center">
@@ -57,23 +59,22 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadeep654&theme=darkhub&no-frame=true&margin-w=10" alt="trophies" />
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=sadeep654&column=10&theme=light&no-frame=false"/>
 </p>
 
 ---
 
 ## 📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadeep654&show_icons=true&theme=dark&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadeep654" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeep654&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeep654" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeep654&theme=dark&hide_border=true" height="120" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeep654" />
 </p>
 
----
 
 ## 📚 Certifications (selected)
 - Proofpoint Certified AI Data Security Specialist (2025)  
