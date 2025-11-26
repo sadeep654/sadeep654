@@ -127,10 +127,10 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 
 ### Publications
 <div> 
-  <a href="https://medium.com/@daria-stanilevici">
+  <a href="https://medium.com/@sadeep">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
   </a>
-  <a href="https://dev.to/daria-stanilevici">
+  <a href="https://dev.to/sadeep654">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
   </a>
 </div>
