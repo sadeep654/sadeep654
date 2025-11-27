@@ -1,6 +1,5 @@
 <!--
   Paste this file into: github.com/<sadeep654>/<sadeep654>/README.md
-  Replace YOUR-GITHUB-USERNAME, YOUR-LINKEDIN, YOUR-EMAIL, YOUR-TWITTER, YOUR-STACKOVERFLOW, and pins.
 -->
 <!--
     Hey there, I'm Sadeep Dilshan!
@@ -47,7 +46,10 @@
 <p align="center"><img src="/img/demo.gif?raw=true"/></p>
 
 > ## 🔭 About
-I design and build data-driven, cloud-first, and secure solutions. I work on predictive modelling, Python analytics, IoT systems, client–server applications, and cloud architectures. I like clean code, reproducible notebooks, and production-aware data pipelines.
+
+I’m a Data and IT professional focused on building secure, scalable, and data-driven solutions. I work with Python, SQL, Java, Bash, Linux, Git, Power BI, and cloud tools across analytics, AI, and backend development. My experience includes predictive modelling, EDA, IoT solutions, API basics, system optimisation, and client–server applications. I hold industry certifications in cloud, AI, data security, networking, and analytics, including Oracle Cloud professional credentials, Proofpoint AI Data Security Specialist, Microsoft Fabric Analytics Engineer, Google IT Support, and Cisco CCNAv7. I enjoy clean coding, continuous learning, and creating practical solutions that deliver measurable impact.
+
+>Feel free to explore my repositories or connect—always open to collaboration and new ideas!
 
 ---
 
@@ -73,8 +75,8 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 > ## ⭐ Featured Projects
 > projects
 
-- **House Price Prediction** — regression modelling & feature engineering (Python, scikit-learn)  
-- **Google Play Store Analytics** — EDA, sentiment, and insights (Python, Pandas)  
+- **Hhhhh** — yyyy  
+- **hhhhhh** — hs)  
 - **IoT Water Monitoring (FYP)** — sensors, embedded, networked monitoring system  
 - **Client–Server Mastermind** — Linux sockets & protocol logic
 
@@ -98,7 +100,7 @@ I design and build data-driven, cloud-first, and secure solutions. I work on pre
 - Proofpoint Certified AI Data Security Specialist (2025)  
 - Oracle Cloud: Data Science & Generative AI Professional (2024–2025)  
 - Microsoft Fabric Analytics Engineer Associate (2025)  
-- Google IT Support Professional Certificate (2025)  
+- Google IT Support Professional Certificate (2020)  
 - Cisco CCNAv7 + Network Security
 
 ---
