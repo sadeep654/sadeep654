@@ -81,9 +81,11 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 ---
 
 > ## GitHub Trophies
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=sadeep654&column=9&theme=light&no-frame=false"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sadeep654&theme=transparent&row=1&column=10" />
+
+</div>
 
 ---
 
