@@ -43,7 +43,7 @@
 
 <p align="center"><img src="/img/demo.gif?raw=true"/></p>
 
-> ## 🔭 About
+> ## About
 
 I’m a Data and IT professional focused on building secure, scalable, and data-driven solutions. I work with Python, SQL, Java, Bash, Linux, Git, Power BI, and cloud tools across analytics, AI, and backend development. My experience includes predictive modelling, EDA, IoT solutions, API basics, system optimisation, and client–server applications. I hold industry certifications in cloud, AI, data security, networking, and analytics, including Oracle Cloud professional credentials, Proofpoint AI Data Security Specialist, Microsoft Fabric Analytics Engineer, Google IT Support, and Cisco CCNAv7. I enjoy clean coding, continuous learning, and creating practical solutions that deliver measurable impact.
 
@@ -51,7 +51,7 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 
 ---
 
-> ## 🛠️ Languages and Tools
+> ## Languages and Tools
 
 <p align="center">
 <!-- Row 1 (17 icons) -->
@@ -70,7 +70,7 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 
 ---
 
-> ## ⭐ Featured Projects
+> ## Featured Projects
 > **Projects**
 
 - **IoT Water Monitoring (FYP)** — sensors, embedded, networked monitoring
@@ -80,14 +80,14 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 
 ---
 
-> ## 🏆 GitHub Trophies
+> ## GitHub Trophies
 <p align="center">
   <img width="95%" src="https://github-profile-trophy.vercel.app/?username=sadeep654&column=9&theme=light&no-frame=false"/>
 </p>
 
 ---
 
-> ## 📈 GitHub Stats & Top Languages
+> ## GitHub Stats & Top Languages
 
 <div align="center">
 
@@ -106,7 +106,7 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 
 ---
 
-> ## 📚 Certifications (selected)
+> ## Certifications (selected)
 - Proofpoint Certified AI Data Security Specialist (2025)  
 - Oracle Cloud: Data Science & Generative AI Professional (2024–2025)  
 - Microsoft Fabric Analytics Engineer Associate (2025)  
