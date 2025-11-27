@@ -113,7 +113,7 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 - Oracle Cloud: Data Science & Generative AI Professional (2024–2025)  
 - Microsoft Fabric Analytics Engineer Associate (2025)  
 - Google IT Support Professional Certificate (2020)  
-- Cisco CCNAv7 + Network Security
+- Cisco CCNAv7 + Network Security (2022)
 
 ---
 
