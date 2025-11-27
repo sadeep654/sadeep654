@@ -9,14 +9,12 @@
     But may I please ask you to follow me in return? Just a click!
     You may also want to connect with me on LinkedIn @sadeepdilshankasthuriarachchi :))
 -->
-
 <img width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=header" alt="header"/> 
-
----
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3D85C6&width=600&lines=Hello%2C+it's+Sadeep+Dilshan;Data+%26+IT+Professional;Data+Analytics+%26+Cloud+Engineer;Cloud+%26+AI+Enthusiast" alt="Typing SVG"/>
 </a>
+
+---
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
