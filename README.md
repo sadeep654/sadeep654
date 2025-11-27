@@ -73,12 +73,12 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 ---
 
 > ## ⭐ Featured Projects
-> projects
+> **Projects**
 
-- **Hhhhh** — yyyy  
-- **hhhhhh** — hs)  
-- **IoT Water Monitoring (FYP)** — sensors, embedded, networked monitoring system  
+- **IoT Water Monitoring (FYP)** — sensors, embedded, networked monitoring
 - **Client–Server Mastermind** — Linux sockets & protocol logic
+- **Vehicle Accident Alert System** — IMU, GPS/GSM alerts, embedded control
+- **IoT-Based Greenhouse Design** — sensor-driven automation & control system
 
 ---
 
