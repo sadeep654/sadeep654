@@ -122,27 +122,9 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
 
 ---
 
-> ## 🤝 Let’s connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" /></a>
-  <a href="https://www.themouse.com/"><img src="https://img.shields.io/badge/Portfolio-%23?logo=web&style=for-the-badge" alt="portfolio" /></a>
-</p>
-
----
-
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/" download>See my resume</a>
-
-<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
-
-### Connect with me!
+> ### Connect with me!
 <div>
+  <img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
     <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
@@ -159,13 +141,21 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
         <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
     </a>
 </div>
-
-<!--
-     Oh, hello there, recruiters!
--->
-
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/iampavandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+---
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/" download>See my resume</a>
+
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=footer" alt="footer"/>
+
+
+
+<img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
+
+
+
