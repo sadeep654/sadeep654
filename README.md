@@ -108,12 +108,17 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 
 ---
 
-> ## Certifications (selected)
-- Proofpoint Certified AI Data Security Specialist (2025)  
-- Oracle: Data Science & Generative AI Professional (2024–2025)  
-- Microsoft Fabric Analytics Engineer Associate (2025)  
-- Google IT Support Professional Certificate (2020)  
-- Cisco CCNAv7 + Network Security (2022)
+> ## Publications
+<div> 
+  <a href="https://medium.com/@sadeep">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+  </a>
+  <a href="https://dev.to/sadeep654">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
+  </a>
+</div>
+You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
+I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
 
 ---
 
@@ -134,33 +139,6 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 
 <!--
      Thanks for being my guest <3
--->
-
-### Publications
-<div> 
-  <a href="https://medium.com/@sadeep">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
-  </a>
-  <a href="https://dev.to/sadeep654">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
-  </a>
-</div>
-
-You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
-
-<!--
-Check out my latest post 👇  
-
-<a href="https://medium.com/@sadeepdilshan" target="_blank">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
-</a>
-
-
-[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
-
-
-     Fast links to my socials!
 -->
 
 ### Connect with me!
