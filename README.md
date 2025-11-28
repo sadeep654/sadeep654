@@ -124,7 +124,7 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
 
 > ### Connect with me!
 <div>
-  <img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
+  <img align="left" width="150" height="150" src="contact.png" alt="kedasha's instagram page @itsthatladydev">
     <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
@@ -152,10 +152,3 @@ Like My Work?
 > <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/" download>See my resume</a>
 
 <img width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=3D85C6&height=120&section=footer" alt="footer"/>
-
-
-
-<img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
-
-
-
