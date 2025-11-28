@@ -115,6 +115,11 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 - Google IT Support Professional Certificate (2020)  
 - Cisco CCNAv7 + Network Security (2022)
 
+| Proofpoint AI Security | Oracle Cloud (AI & DS) | Microsoft Fabric | Google IT Support | Cisco CCNAv7 |
+| --- | --- | --- | --- | --- |
+| [![Proofpoint](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/sadeep654/certifications/tree/main/proofpoint&subtitle=AI+Data+Security+Specialist&size=square)](https://github.com/sadeep654/certifications/tree/main/proofpoint) | [![Oracle](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/sadeep654/certifications/tree/main/oracle&subtitle=AI+%26+Data+Science&size=square)](https://github.com/sadeep654/certifications/tree/main/oracle) | [![Microsoft Fabric](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/sadeep654/certifications/tree/main/microsoft&subtitle=Fabric+Analytics+Engineer&size=square)](https://github.com/sadeep654/certifications/tree/main/microsoft) | [![Google IT](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/sadeep654/certifications/tree/main/google&subtitle=IT+Support+Professional&size=square)](https://github.com/sadeep654/certifications/tree/main/google) | [![Cisco](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/sadeep654/certifications/tree/main/cisco&subtitle=CCNAv7+%2B+Security&size=square)](https://github.com/sadeep654/certifications/tree/main/cisco) |
+
+
 ---
 
 > ## 🤝 Let’s connect
