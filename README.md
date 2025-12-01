@@ -21,7 +21,7 @@
 -->
 
 <div>
-    <img src="./design.gif" alt="About Me Terminal GIF"/>
+    <img src="./img.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
