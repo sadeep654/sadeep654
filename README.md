@@ -124,7 +124,7 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
 
 ---
 
-> ### Connect with me!
+> ### Connect with me! <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
 <div>
   <img align="left" width="150" height="150" src="contact.png" alt="kedasha's instagram page @itsthatladydev">
     <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/">
