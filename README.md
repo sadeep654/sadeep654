@@ -80,15 +80,6 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 
 ---
 
-> ## GitHub Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sadeep654&theme=transparent&row=1&column=10" />
-
-</div>
-
----
-
 > ## GitHub Stats & Top Languages
 
 <div align="center">
