@@ -1,3 +1,4 @@
+
 <!--
   Paste this file into: github.com/<sadeep654>/<sadeep654>/README.md
 -->
@@ -124,9 +125,9 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
 
 ---
 
-> ### Connect with me! <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
+> ### Connect with me! <img src="img/connect.gif" height="30" style="margin-left: 5px;" />
 <div>
-  <img align="left" width="150" height="150" src="contact.png" alt="kedasha's instagram page @itsthatladydev">
+  <img align="left" width="150" height="150" src="contact.png" alt="sadeep">
     <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
