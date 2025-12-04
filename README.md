@@ -9,7 +9,7 @@
     But may I please ask you to follow me in return? Just a click!
     You may also want to connect with me on LinkedIn @sadeepdilshankasthuriarachchi :))
 -->
-<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%2C+it's+Sadeep+Dilshan&fontColor=FBD027FF&fontAlign=50&section=header"/> 
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FBD027FF&text=Hello%2C+it's+Sadeep+Dilshan&fontColor=FFFFFFFF&fontAlign=50&section=header"/> 
     <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&pause=1000&color=FBD027&center=true&vCenter=true&width=1000&lines=Data+Analyst+%E2%80%A2+Aspiring+Data+Scientist+%E2%80%A2+Python+%7C+SQL+%7C+R+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
