@@ -9,9 +9,7 @@
     But may I please ask you to follow me in return? Just a click!
     You may also want to connect with me on LinkedIn @sadeepdilshankasthuriarachchi :))
 -->
-<img width=1000 src="https://capsule-render.vercel.app/api?type=speech&height=150&color=fbd027&text=HELLO%20.%20こんにちは&fontColor=FFFFFF&animation=blinking"/> 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=fbd027&width=600&lines=Hello%2C+it's+Sadeep+Dilshan;Data+%26+IT+Professional;Data+Analytics+%26+Cloud+Engineer;Cloud+%26+AI+Enthusiast" alt="Typing SVG"/>
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%2C+it's+Sadeep+Dilshan&fontColor=FBD027FF&fontAlign=50&section=header"/> 
     <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&pause=1000&color=FBD027&center=true&vCenter=true&width=1000&lines=Data+Analyst+%E2%80%A2+Aspiring+Data+Scientist+%E2%80%A2+Python+%7C+SQL+%7C+R+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
