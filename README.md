@@ -96,10 +96,21 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sadeep654&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+      <a href="https://github.com/sadeep654">
+      <img src="https://quotes-github-readme.vercel.app/api?theme=default">  
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeep654&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+      <p align="center">
+   <a href="https://github.com/tayyabadev"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeep654&show_icons=true&locale=en&layout=demo&theme=default&hide_border=true" /> 
+   </a>  
+ </p>
+    </td>
+        <td>
+     <a href="https://github.com/sadeep654">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+   </a>  
+ </p>
     </td>
   </tr>
 </table>
