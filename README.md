@@ -129,19 +129,19 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
 <div>
   <img align="left" width="150" height="150" src="contact.png" alt="sadeep">
     <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/">
-        <img src="img/lin.png" alt="LinkedIn" width="35" height="35"/>
+        <img src="img/lin.png" alt="LinkedIn" width="37" height="37"/>
+    </a>
+    <a href="https://www.kaggle.com/sadeepdilshan">
+        <img src="img/k.png" alt="Kaggle" width="37" height="37"/>
+    </a>
+    <a href="https://www.x.com/sadeepdilshan">
+        <img src="img/x.png" alt="X" width="37" height="37"/>
+    </a>
+    <a href="https://www.facebook.com/sadeepdilshankasthuriarachchi">
+        <img src="img/face.png" alt="Facebook" width="37" height="37"/>
     </a>
     <a href="https://instagram/sadeep654">
-        <img src="img/ins.png" alt="Dev.to" width="37" height="37"/>
-    </a>
-    <a href="https://www.credly.com/users/ss">
-        <img src="img/x.png" alt="Credly" width="35" height="35"/>
-    </a>
-    <a href="https://www.artstation.com/ss">
-        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
-    </a>
-    <a href="https://medium.com/@sadeep">
-        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+        <img src="img/ins.png" alt="instagram" width="37" height="37"/>
     </a>
 </div>
 Like My Work?
