@@ -132,13 +132,13 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
         <img src="img/l.png" alt="LinkedIn" width="37" height="37"/>
     </a>
     <a href="https://www.kaggle.com/sadeepdilshan">
-        <img src="img/k.png" alt="Kaggle" width="37" height="37"/>
+        <img src="img/r.png" alt="Redit" width="37" height="37"/>
     </a>
     <a href="https://www.x.com/sadeepdilshan">
         <img src="img/t.png" alt="X" width="37" height="37"/>
     </a>
-    <a href="https://www.facebook.com/sadeepdilshankasthuriarachchi">
-        <img src="img/face.png" alt="Facebook" width="37" height="37"/>
+    <a href="https://www.discord.com/sadeepdilshankasthuriarachchi">
+        <img src="img/d.png" alt="discord" width="37" height="37"/>
     </a>
     <a href="https://instagram/sadeep654">
         <img src="img/i.png" alt="instagram" width="37" height="37"/>
