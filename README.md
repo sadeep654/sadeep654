@@ -127,7 +127,7 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
 
 > ### Connect with me! <img src="img/connect.gif" height="30" style="margin-left: 5px;" />
 <div>
-  <img align="left" width="150" height="150" src="contact.png" alt="sadeep">
+  <img align="left" width="150" height="150" src="img/contact.png" alt="sadeep">
     <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/">
         <img src="img/l.png" alt="LinkedIn" width="37" height="37"/>
     </a>
