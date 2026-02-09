@@ -113,7 +113,7 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 
 > ## Publications
 <div> 
-  <a href="https://medium.com/@sadeep">
+  <a href="https://medium.com/@sadeep654">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
   </a>
   <a href="https://dev.to/sadeep654">
