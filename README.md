@@ -33,6 +33,8 @@
      This is the list of my skills and tools I am studying!
 -->
 
+<img src="img/line.gif" width="100%" alt="break" />
+
 ---
 
 <!-- <h1 align="center">
@@ -41,7 +43,7 @@
   </a>
 </h1> -->
 
----
+
 
 <p align="center"><img src="/img/demo.gif?raw=true"/></p>
 
@@ -50,8 +52,7 @@
 I’m a Data and IT professional focused on building secure, scalable, and data-driven solutions. I work with Python, SQL, Java, Bash, Linux, Git, Power BI, and cloud tools across analytics, AI, and backend development. My experience includes predictive modelling, EDA, IoT solutions, API basics, system optimisation, and client–server applications. I hold industry certifications in cloud, AI, data security, networking, and analytics, including Oracle Cloud professional credentials, Proofpoint AI Data Security Specialist, Microsoft Fabric Analytics Engineer, Google IT Support, and Cisco CCNAv7. I enjoy clean coding, continuous learning, and creating practical solutions that deliver measurable impact.
 
 >Feel free to explore my repositories or connect—always open to collaboration and new ideas!
-
----
+<img src="img/line.gif" width="100%" alt="break" />
 
 > ## Languages and Tools
 
@@ -69,8 +70,7 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 <img src="https://skillicons.dev/icons?i=atom,pycharm,c,cpp,r,devto,eclipse,replit,cloudflare,notion,latex,arduino,raspberrypi,ansible,jenkins" />
 
 </p>
-
----
+<img src="img/line.gif" width="100%" alt="break" />
 
 > ## Featured Projects
 > **Projects**
@@ -80,7 +80,7 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 - **Vehicle Accident Alert System** — IMU, GPS/GSM alerts, embedded control
 - **IoT-Based Greenhouse Design** — sensor-driven automation & control system
 
----
+<img src="img/line.gif" width="100%" alt="break" />
 
 > ## GitHub Stats & Top Languages
 
@@ -110,7 +110,7 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 
 </div>
 
----
+<img src="img/line.gif" width="100%" alt="break" />
 
 > ## Publications
 <div> 
@@ -124,7 +124,7 @@ I’m a Data and IT professional focused on building secure, scalable, and data-
 You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
 I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
 
----
+<img src="img/line.gif" width="100%" alt="break" />
 
 > ### Connect with me! <img src="img/connect.gif" height="30" style="margin-left: 5px;" />
 <div>
@@ -149,7 +149,7 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/iampavandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
----
+<img src="img/line.gif" width="100%" alt="break" />
 
 ### Employer?
 > [!IMPORTANT]  
