@@ -10,12 +10,13 @@
     But may I please ask you to follow me in return? Just a click!
     You may also want to connect with me on LinkedIn @sadeepdilshankasthuriarachchi :))
 -->
-<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fbd027&text=Hello%2C+it's+Sadeep+Dilshan&fontColor=FFFFFFFF&fontAlign=50&section=header"/> 
-    <a href="https://git.io/typing-svg">
+<!-- <img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fbd027&text=Hello%2C+it's+Sadeep+Dilshan&fontColor=FFFFFFFF&fontAlign=50&section=header"/> -->
+ 
+<p align="center">
+  <img src="img/banner.png" width="100%" alt="Project Banner" />
+</p>
+<a href="https://git.io/typing-svg"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&pause=1000&color=FBD027&center=true&vCenter=true&width=1000&lines=Data+Analyst+%E2%80%A2+Aspiring+Data+Scientist+%E2%80%A2+Python+%7C+SQL+%7C+R+%7C+Machine+Learning" alt="Typing SVG" />
-</a>
-
----
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
@@ -34,11 +35,11 @@
 
 ---
 
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Data+into+Decisions;Turning+Ideas+into+Solutions&font=Montserrat%20Code&center=true&width=600&height=45&color=F44336&vCenter=true&size=22">
   </a>
-</h1>
+</h1> -->
 
 ---
 
