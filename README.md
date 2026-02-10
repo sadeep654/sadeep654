@@ -34,7 +34,7 @@
 -->
 
 
----
+
 
 <!-- <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -42,9 +42,7 @@
   </a>
 </h1> -->
 
-
-
-<p align="center"><img src="/img/demo.gif?raw=true"/></p>
+---
 
 > ## About
 
