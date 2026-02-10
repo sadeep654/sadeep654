@@ -51,7 +51,7 @@
 
 I’m a Data and IT professional focused on building secure, scalable, and data-driven solutions. I work with Python, SQL, Java, Bash, Linux, Git, Power BI, and cloud tools across analytics, AI, and backend development. My experience includes predictive modelling, EDA, IoT solutions, API basics, system optimisation, and client–server applications. I hold industry certifications in cloud, AI, data security, networking, and analytics, including Oracle Cloud professional credentials, Proofpoint AI Data Security Specialist, Microsoft Fabric Analytics Engineer, Google IT Support, and Cisco CCNAv7. I enjoy clean coding, continuous learning, and creating practical solutions that deliver measurable impact.
 
->Feel free to explore my repositories or connect—always open to collaboration and new ideas! <img src="https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/starwars_fight.gif" width="50">
+>Feel free to explore my repositories or connect—always open to collaboration and new ideas! <img src="img/about.gif" width="50">
 <img src="img/line.gif" width="100%" alt="break" />
 
 > ## Languages and Tools
