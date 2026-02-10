@@ -155,4 +155,5 @@ Like My Work?
 > [!IMPORTANT]  
 > <a href="https://www.linkedin.com/in/sadeepdilshankasthuriarachchi/" download>See my resume</a>
 
-<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&color=fbd027&height=120&section=footer" alt="footer"/>
+<img width=1000 src="https://capsule-render.vercel.app/api?type=waving&height=150&color=black&section=footer" alt="footer"/>
+
